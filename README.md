@@ -1,4 +1,4 @@
-### <div align="center">  console.log("Hello, world! 👋") </div>
+### <div align="center">  console.log("Hello, world! 👋"); </div>
 
 <div align="center">
   <a href="https://github.com/andre-fig">
