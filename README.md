@@ -1,4 +1,4 @@
-### <div align="center"> Hi there 👋 </div>
+### <div align="center">  console.log("Hello, world! 👋") </div>
 
 <div align="center">
   <a href="https://github.com/andre-fig">
@@ -16,3 +16,5 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+  
+
