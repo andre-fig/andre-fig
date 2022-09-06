@@ -1,7 +1,3 @@
-Desenvolvedor de software, com graduação em Análise e Desenvolvimento de Sistemas e 1 ano de experiência em desenvolvimento de aplicações web.
-
-Apresenta proeficiência nas linguagens TypeScript, JavaScript e SQL e conhecimento prático das ferramentas Node.js, React, Git, AWS e Docker.
-
 <div align="center">
   <a href="https://github.com/andre-fig">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-fig&layout=compact&langs_count=7&theme=dark"/> <br>
