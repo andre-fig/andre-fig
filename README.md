@@ -16,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/andre-fig">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre-fig&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-fig&theme=react&hide_border=false&layout=compact"/>
+ <img height="180em" src="https://github-readme-stats-mu-eight-26.vercel.app/api?username=andre-fig&rank_icon=github&count_private=true&theme=dark&hide=issues,contribs,stars"/>
+  <img height="180em" src="https://github-readme-stats-mu-eight-26.vercel.app/api/top-langs/?username=andre-fig&theme=dark"/>
 </div>
 
 <!-- Skills -->
