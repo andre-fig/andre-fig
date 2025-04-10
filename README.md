@@ -43,8 +43,16 @@
   <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white">&nbsp;
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">&nbsp;
 
-  <!-- Cloud -->
-  <img alt="AWS" src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;
+  <!-- Cloud AWS -->
+  <img alt="Amazon ECS" src="https://img.shields.io/badge/Amazon_ECS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;
+  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-569A31.svg?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;
+  <img alt="AWS RDS" src="https://img.shields.io/badge/AWS_RDS-527FFF.svg?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;
+  <img alt="Amazon ElastiCache" src="https://img.shields.io/badge/ElastiCache-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">&nbsp;
+  <img alt="AWS Secrets Manager" src="https://img.shields.io/badge/Secrets_Manager-3C3C3C.svg?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;
+
+  <!-- Monitoring & Observability -->
+  <img alt="Amazon CloudWatch" src="https://img.shields.io/badge/CloudWatch-FF4F8B.svg?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;
+  <img alt="Grafana" src="https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">&nbsp;
 
   <!-- Testes -->
   <img alt="Playwright" src="https://img.shields.io/badge/playwright-2EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white">&nbsp;
