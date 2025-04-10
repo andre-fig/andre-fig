@@ -6,9 +6,9 @@
 <div align="center">
   
 ## Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-### Eu sou André 👨‍💻 
+### 👨‍💻 Me chamo André ;) 
 💻 Desenvolvedor backend focado em Node.js e arquitetura escalável.  
-🚀 Curto resolver problemas complexos e criar soluções robustas.  
+🚀 Curto resolver problemas complexos e criar soluções robustas. <br><br>
 
 </div>
 
@@ -71,15 +71,10 @@
 </div>
 <br>
 
-<!-- Contador de Visitantes -->
-<div align="center">
-  <br><p align="center"><b>Visitantes do perfil</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{andre-fig}/count.svg" /></p> 
-  <br>
-</div>
-
 <!-- Contatos -->
-<div align="center"> 
+<div align="center">
+  Curtiu? Entre em contato!<br><br>
+
   <a href="https://www.linkedin.com/in/fig-andre" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:andrefigueiredo@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
