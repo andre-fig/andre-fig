@@ -62,12 +62,12 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
 
   <!-- Dev Tools -->
+  <img alt="Jira" src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white">&nbsp;
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;
-  <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white">&nbsp;
   <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-0052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white">&nbsp;
-  <img alt="Jira" src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white">&nbsp;
+  <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white">&nbsp;
 
 </div>
 <br>
