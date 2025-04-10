@@ -5,7 +5,7 @@
 
 <div align="center">
   
-## Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Hello, world! 🌍
 ### 👨‍💻 Me chamo André ;) 
 💻 Desenvolvedor backend focado em Node.js e arquitetura escalável.  
 🚀 Curto resolver problemas complexos e criar soluções robustas. <br><br>
