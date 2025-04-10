@@ -5,8 +5,8 @@
 
 <div align="center">
   
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Fala, dev! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-### Eu sou André Figueiredo 👨‍💻  
+## Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Eu sou André 👨‍💻 
 💻 Desenvolvedor backend focado em Node.js e arquitetura escalável.  
 🚀 Curto resolver problemas complexos e criar soluções robustas.  
 
