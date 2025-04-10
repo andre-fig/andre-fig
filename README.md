@@ -9,8 +9,6 @@
 ### Eu sou André Figueiredo 👨‍💻  
 💻 Desenvolvedor backend focado em Node.js e arquitetura escalável.  
 🚀 Curto resolver problemas complexos e criar soluções robustas.  
-☁️ AWS, mensageria, filas e banco de dados são meu dia a dia.  
-📍 Aberto a colaborações e novos desafios!
 
 </div>
 
