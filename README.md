@@ -5,7 +5,7 @@
 
 <div align="center">
   
-## Hello, world! 🌍
+## Hey, dev! 🌍
 ### 👨‍💻 Me chamo André ;) 
 💻 Desenvolvedor backend focado em Node.js e arquitetura escalável.  
 🚀 Curto resolver problemas complexos e criar soluções robustas. <br><br>
